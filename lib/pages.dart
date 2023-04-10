@@ -14,7 +14,6 @@ class _WorkState extends State<Work> {
         elevation: 0,
         backgroundColor: Colors.white,
         actions: [
-
         ],
       ),
       body: SingleChildScrollView(
